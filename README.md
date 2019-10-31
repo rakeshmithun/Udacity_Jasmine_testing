@@ -1,4 +1,4 @@
-# Udacity_Jasmine_testing
+# Udacity - Jasmine UI testing
 RMIT project 3 - Feeder reader testing
 
 ### Objective
@@ -7,7 +7,7 @@ In this project, I am given a web-based application that reads RSS feeds. The ap
 ### How to Run the Application
 1. download or clone this repository.
 
-2. Find the index.html file, and open the file in a modern browser.
+2. Find the index.html file, and open the file in a web browser.
 
 3. The Jasmine tests are displayed at the bottom of the index.html page.
 
