@@ -5,7 +5,7 @@ RMIT project 3 - Feeder reader testing
 In this project, I am given a web-based application that reads RSS feeds. The application has incomplete Jasmine test suites, and I write the remaining test suites and get them to pass. The goal is to learn about JavaScript testing, which is an important part of the development process and many organizations practice a standard known as "test-driven development" or TDD.
 
 ### How to Run the Application
-1. download or clone this repository.
+1. Download or clone this repository.
 
 2. Find the index.html file, and open the file in a web browser.
 
